@@ -9,7 +9,7 @@ A 21 years old passionate junior Front-end developer and student from Brazil.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-andion/)
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=andiondavi&show_icons=true&theme=holi)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andiondavi&layout=donut&theme=holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andiondavi&layout=compact&theme=holi)
 
 ## 🖥️ Portfolio:
 
