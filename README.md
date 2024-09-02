@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdnYW1va3h6eDd1MHI4b3F0YjZvNTN1aHlzNXBnYW1rN3huYTAzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8c77OuiTllfmN9WJG8/giphy.gif" width="35" /> Hey! Welcome to my GitHub.
 
 ### Hi 👋, I'm Davi!
-A 21 years old passionate Software Developer and student from Brazil.
+A 22 years old passionate Software Developer and student from Brazil.
 - 💭 I have fluency in English and have experience with Java, Spring, React.js and Next.
 - 👩🏻‍🎓 Studied Front-end development at <img align="center" alt="html5" src="https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white" />
 - 👩🏻‍💻 Currently learning about cloud computing and microservices.
