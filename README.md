@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdnYW1va3h6eDd1MHI4b3F0YjZvNTN1aHlzNXBnYW1rN3huYTAzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8c77OuiTllfmN9WJG8/giphy.gif" width="35" /> Hey! Welcome to my GitHub.
 
 ### Hi 👋, I'm Davi!
-A 22 years old passionate Software Developer and student from Brazil.
+A 23 years old passionate Software Developer and student from Brazil, currently living in Spain.
 - 💭 I have fluency in English and have experience with Java, Spring, React.js and Next.
 - 👩🏻‍🎓 Studied Front-end development at <img align="center" alt="html5" src="https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white" />
 - 👩🏻‍💻 Currently learning about cloud computing and microservices.
@@ -10,14 +10,6 @@ A 22 years old passionate Software Developer and student from Brazil.
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=andiondavi&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andiondavi&layout=compact&theme=holi)
-
-## 🖥️ Portfolio:
-
-- **[Metaversus](https://github.com/andiondavi/metaversus)** - Modern UI/UX Website/Landing page
-- **[Sumz](https://github.com/andiondavi/sumz)** - AI Article Summarizer Website
-- **[Brainwave](https://github.com/andiondavi/brainwave)** - Modern UI/UX Website/Landing page
-- **[Hilink](https://github.com/andiondavi/hilink)** - UI/UX Travel Website/Landing Page
-- **[Golds Gym](https://github.com/andiondavi/golds-gym)** - Exercise API Based Website
 
 ![gif](https://private-user-images.githubusercontent.com/77739311/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUxMTUxMTAsIm5iZiI6MTcxNTExNDgxMCwicGF0aCI6Ii83NzczOTMxMS8yNzEzODQ5MzktNGU5ZjQxYWYtNmI1Ny00OWE3LWIxNWEtNzQzMjJlOTZiNGQ3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA3VDIwNDY1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNhYmM5Yjg4OGFhZGE5MzU4ZTE3ZjJiMjljYzE4NmUxNWRmNjkwYjhiY2ZiYmFkZDA1Yzg4NWYxZTY3MmJjOWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jg_WYZJcP82lkmnqFU_-AgybrBpbtZb7erNVHKwLCFI)
 
